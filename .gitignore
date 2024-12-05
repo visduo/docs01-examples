@@ -1,0 +1,11 @@
+### DevEco Studio ###
+.idea
+node_modules
+oh_modules
+.preview
+build
+.cxx
+.test
+
+### Mac files ###
+*.DS_Store

@@ -1,3 +1,3 @@
-PHP 基础案例教程（第2版）应用示例
+HarmonyOS4.0应用开发快速入门应用示例
 
-文档：https://docs-share.07tb.com/d/20240727224905-rbola2r
+文档：https://docs-share.07tb.com/d/20240727224127-n69bkrb
